@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Home Budget",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
